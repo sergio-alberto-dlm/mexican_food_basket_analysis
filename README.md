@@ -1,0 +1,1 @@
+We conduct a thorough analysis of the prices of several products within the Mexican food basket to automatically identify trends and regional behaviors. By employing data dimensionality reduction and clustering techniques, we extract useful and relevant insights. 
