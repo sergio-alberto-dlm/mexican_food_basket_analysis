@@ -37,14 +37,14 @@ We start by analyzing the price trends of various food items over time. This hel
 *Figure 1: Price Trends of Selected Food Items*
 
 
-### 3. Regional Variations
+### 2. Regional Variations
 
 We also analyze the regional variations in food prices and consumption patterns. This helps in understanding how different regions in Mexico are affected by economic and cultural factors.
 
 ![Regional Variations](./images/regional_variations_plot.png)
 *Figure 3: Regional Variations in Food Prices*
 
-### 4. Clustering per states 
+### 3. Clustering per states 
 
 Finally, we conduct clustering process were we realize that nearby states tend to have a similar on average price of the food basket, despite the model has any knowledge of the geography.
 
@@ -61,4 +61,8 @@ Finally, we conduct clustering process were we realize that nearby states tend t
 
 ## 📚 References
 
-1. Source of data and any relevant literature or datasets used in the analysis.
+[1]: See more [canasta básica, México](https://www.gob.mx/siap/es/articulos/canasta-basica-alimentaria?idiom=es/). 
+
+[2]: See more [Canasta básica actualizada](https://www.gob.mx/canastabasica)
+
+[3]: See more [Infobae](https://www.infobae.com/mexico/2024/03/12/marzo-del-2024-este-es-el-precio-de-la-canasta-basica-en-mexico/)
