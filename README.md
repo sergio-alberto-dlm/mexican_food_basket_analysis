@@ -1,5 +1,3 @@
----
-
 # 🌮 Mexican Food Basket Analysis
 
 Welcome to the Mexican Food Basket Analysis project! This repository contains a comprehensive analysis of the Mexican food basket, exploring various aspects such as price trends and regional variations. Dive into the data to uncover insights about the food consumption patterns in Mexico.
@@ -64,5 +62,3 @@ Finally, we conduct clustering process were we realize that nearby states tend t
 ## 📚 References
 
 1. Source of data and any relevant literature or datasets used in the analysis.
-
----
